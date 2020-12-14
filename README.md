@@ -12,7 +12,7 @@
 
 
 - 🌪️ Interested in front-end technologies.
-- 🔥 I’m focusing on VueJS and struggling.
+- 🔥 I’m focusing on VueJS right now.
 - ⚡ Mail me >> szqii.altn@gmail.com
 
 
