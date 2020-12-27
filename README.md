@@ -4,10 +4,9 @@
  
 #### <center> I'm second-year a student working hard to be front-end developer, in Pamukkale University.
 
-![](https://komarev.com/ghpvc/?username=Szqii&color=00FFE0)
-<div align="right">
+![](https://komarev.com/ghpvc/?username=Szqii&color=FF00C1)
 <a href="https://findmentor.network/peer/sezgi-altan"> <img src="https://img.shields.io/badge/Find%20Mentor-I'm%20a%20Mentee-blue"> </a>
-</div>
+
 
 
 
