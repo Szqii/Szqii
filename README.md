@@ -17,4 +17,4 @@
 
 Contact me on **social media.**
 
-<a href="https://www.instagram.com/szq_ii"> <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-black-32.png"></a> <a href="https://twitter.com/Szq_ii"> <img src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_twitter-32.png"></a> <a href="https://www.linkedin.com/in/sezgi-altan/"> <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-32.png"></a> 
+<a href="https://www.instagram.com/szq_ii"> <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-black-32.png"></a> <a href="https://twitter.com/devsezgi"> <img src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_twitter-32.png"></a> <a href="https://www.linkedin.com/in/sezgi-altan/"> <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-32.png"></a> 
