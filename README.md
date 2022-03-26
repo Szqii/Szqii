@@ -2,7 +2,7 @@
 
 ## <center> Hello, there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  
-#### <center> I'm second-year a student working hard to be front-end developer, in Pamukkale University.
+#### <center> I'm third-year student working hard to be front-end developer, in Pamukkale University.
 
 ![](https://komarev.com/ghpvc/?username=Szqii&color=FF00C1)
 <a href="https://findmentor.network/peer/sezgi-altan"> <img src="https://img.shields.io/badge/Find%20Mentor-I'm%20a%20Mentee-blue"> </a>
