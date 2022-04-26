@@ -42,6 +42,6 @@ I am interested in frontend technologies and UI Development.
 
 <div width="100%" align="center"><a href="https://github.com/Szqii/geo" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Szqii&repo=geo&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/Szqii/advice-generator-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Szqii&repo=advice-generator-app&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br />
 
 <div width="100%" align="center"><a href="https://github.com/Szqii/rock-paper-scissors-game" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Szqii&repo=rock-paper-scissors-game&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/Szqii/frontend-2021" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Szqii&repo=frontend-2021&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&locale=en" /></a></div>
