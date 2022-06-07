@@ -1,5 +1,4 @@
-## <center> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+## <center> Hello 👋🏼
 I am **Sezgi Altan** | *CE. Student & Web Developer*
 
 Welcome to my Github profile. 
