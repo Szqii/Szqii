@@ -30,17 +30,3 @@ I am interested in frontend technologies and UI Development.
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/284727475047628810" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Szqii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sezgi.wtf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sezgialtan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sezgiwtf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Szqii"><img src="https://github-readme-stats.vercel.app/api?username=Szqii&show_icons=true&hide=&count_private=true&title_color=9A584E&text_color=ffffff&icon_color=9A584E&bg_color=171717&hide_border=true&show_icons=true" alt="Szqii's GitHub stats" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Szqii/geo" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Szqii&repo=geo&title_color=9A584E&text_color=ffffff&icon_color=9A584E&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/Szqii/advice-generator-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Szqii&repo=advice-generator-app&title_color=9A584E&text_color=ffffff&icon_color=9A584E&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br />
-
-<div width="100%" align="center"><a href="https://github.com/Szqii/rock-paper-scissors-game" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Szqii&repo=rock-paper-scissors-game&title_color=9A584E&text_color=ffffff&icon_color=9A584E&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/Szqii/frontend-2021" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Szqii&repo=frontend-2021&title_color=9A584E&text_color=ffffff&icon_color=9A584E&bg_color=171717&hide_border=true&locale=en" /></a></div>
