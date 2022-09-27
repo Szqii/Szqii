@@ -6,8 +6,7 @@ I am 21 years old, fully motivated Web Developer and Computer Engineering studen
 I am interested in frontend technologies and UI Development.
 
 * 🖥️  See my portfolio at [sezgi.wtf](http://sezgi.wtf)
-* ✉️  You can contact me at [szqii.altn@gmail.com](mailto:szqii.altn@gmail.com)
-* 🚀  I'm currently working on [Jotform](http://jotform.com)
+* ✉️  You can contact me via [szqii.altn@gmail.com](mailto:szqii.altn@gmail.com)
 * ⚡  Weekend projects are my secret passion.
 
 ### Skills
