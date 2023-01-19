@@ -8,6 +8,7 @@ I am interested in frontend technologies and UI Development.
 * 🖥️  See my portfolio at [sezgi.wtf](http://sezgi.wtf)
 * ✉️  You can contact me via [szqii.altn@gmail.com](mailto:szqii.altn@gmail.com)
 * ⚡  Weekend projects are my secret passion.
+* 🌍 Frontend Developer @simpliers
 
 ### Skills
 
