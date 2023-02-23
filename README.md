@@ -2,13 +2,17 @@
 I am **Sezgi Altan** | *CE. Student & Web Developer*
 
 Welcome to my Github profile. 
-I am 21 years old, fully motivated Web Developer and Computer Engineering student. 
-I am interested in frontend technologies and UI Development.
+  <br>
+I am 23 years old, fully motivated Web Developer and Computer Engineering student.
+  <br>
+I am interested in Frontend & UI Development.
 
-* 🖥️  See my portfolio at [sezgi.wtf](http://sezgi.wtf)
-* ✉️  You can contact me via [szqii.altn@gmail.com](mailto:szqii.altn@gmail.com)
-* ⚡  Weekend projects are my secret passion.
+* 🖥️ See my portfolio at [sezgi.wtf](http://sezgi.wtf)
+* 🚀 CTO @artrodite
 * 🌍 Frontend Developer @simpliers
+* ✉️  You can contact me via [szqii.altn@gmail.com](mailto:szqii.altn@gmail.com)
+* ⚡  Weekend projects are my secret passion. 
+
 
 ### Skills
 
@@ -31,5 +35,4 @@ I am interested in frontend technologies and UI Development.
 
 <p align="left"> <a href="https://discord.com/users/284727475047628810" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Szqii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sezgi.wtf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sezgialtan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sezgiwtf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
   
-  
- [![GitHub Streak](https://streak-stats.demolab.com?user=Szqii&theme=github-dark&hide_border=true&border_radius=)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Szqii&theme=github-dark&hide_border=true&border_radius=)](https://git.io/streak-stats)
