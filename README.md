@@ -8,8 +8,8 @@ I am 23 years old, fully motivated Web Developer and Computer Engineering studen
 I am interested in Frontend & UI Development.
 
 * 🖥️ See my portfolio at [sezgi.wtf](http://sezgi.wtf)
-* 🚀 CTO @artrodite
-* 🌍 Frontend Developer @simpliers
+* 🚀 CTO [@artrodite](https://artrodite.com/)
+* 🌍 Frontend Developer [@simpliers](https://simpliers.com/en)
 * ✉️  You can contact me via [szqii.altn@gmail.com](mailto:szqii.altn@gmail.com)
 * ⚡  Weekend projects are my secret passion. 
 
