@@ -3,13 +3,13 @@ I am **Sezgi Altan** | *CE. Student & Web Developer*
 
 Welcome to my Github profile. 
   <br>
-I am 23 years old, fully motivated Web Developer and Computer Engineering student.
+I am 23 years old, fully motivated Web & Mobile Developer
   <br>
-I am interested in Frontend & UI Development.
+I am interested in Frontend & Mobile Development.
 
 * 🖥️ See my portfolio at [sezgi.wtf](http://sezgi.wtf)
 * 🚀 CTO [@artrodite](https://artrodite.com/)
-* 🌍 Frontend Developer [@simpliers](https://simpliers.com/en)
+* 🌍 Frontend & Mobile Developer [@simpliers](https://simpliers.com/en)
 * ✉️  You can contact me via [szqii.altn@gmail.com](mailto:szqii.altn@gmail.com)
 * ⚡  Weekend projects are my secret passion. 
 
