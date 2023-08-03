@@ -1,11 +1,10 @@
 ## <center> Hello 👋🏼
-I am **Sezgi Altan** | *CE. Student & Web Developer*
+I am **Sezgi Altan** | *Web & Mobile Developer*
 
 Welcome to my Github profile. 
   <br>
-I am 23 years old, fully motivated Web & Mobile Developer
-  <br>
-I am interested in Frontend & Mobile Development.
+I am 23 years old, fully motivated Frontend & Mobile Developer
+
 
 * 🖥️ See my portfolio at [sezgi.wtf](http://sezgi.wtf)
 * 🚀 CTO [@artrodite](https://artrodite.com/)
