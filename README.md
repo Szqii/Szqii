@@ -1,14 +1,14 @@
 ## <center> Hello 👋🏼
-I am **Sezgi Altan** | *Web & Mobile Developer*
+I am **Sezgi** | *Frontend & Mobile Developer*
 
 Welcome to my Github profile. 
   <br>
-I am 23 years old, fully motivated Frontend & Mobile Developer
+I am enthusiastic, self-motivated, reliable, responsible and hardworking with a strong passion for creating user-friendly digital experiences.
 
 
 * 🖥️ See my portfolio at [sezgi.wtf](http://sezgi.wtf)
 * 🚀 CTO [@artrodite](https://artrodite.com/)
-* 🌍 Frontend & Mobile Developer [@simpliers](https://simpliers.com/en)
+* 🌍 Software Engineer [@factset](https://www.factset.com/)
 * ✉️  You can contact me via [szqii.altn@gmail.com](mailto:szqii.altn@gmail.com)
 * ⚡  Weekend projects are my secret passion. 
 
